@@ -1,4 +1,4 @@
-  {
+{
   "name": "node-workout",
   "version": "0.0.1",
   "description": "Node workout",
@@ -7,10 +7,11 @@
   "author": "venkatesan kannan",
   "license": "MIT",
   "scripts": {
-    "start" : "node app.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "lodash": "^4.17.10",
+    "request": "2.87.0",
     "yargs": "^11.0.0"
   }
 }
