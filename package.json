@@ -1,0 +1,16 @@
+  {
+  "name": "node-workout",
+  "version": "0.0.1",
+  "description": "Node workout",
+  "main": "app.js",
+  "repository": "git@github.com:vekannan/nodejsworkout.git",
+  "author": "venkatesan kannan",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "yargs": "^11.0.0"
+  }
+}
